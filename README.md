@@ -10,7 +10,7 @@ Santarém, supervised by **Maryam Abbasi** and **Pedro Miguel de Oliveira Martin
 · [Inspect the results](results/) · [Explore the code](src/)
 · [Obtain the datasets](datasets/)
 
-This release contains the final October 2026 dissertation export (V5), the
+This release contains the final October 2026 dissertation export (V6), the
 matching selected scientific evidence and two reviewed companion manuscripts
 in preparation for submission. The manuscripts are not yet published.
 This is research code, not a production fraud system, a journal-acceptance
@@ -109,9 +109,10 @@ alone are not a bitwise reproduction package.
 versioned again. The current tree needs no raw dataset or model LFS download
 to read the thesis and inspect the exported evidence. This organisation
 repository starts with a clean initial commit containing the selected public
-release, without the development repository's historical files. The repository
-links embedded in the unchanged publication PDFs identify the original
-development repository.
+release, without the development repository's historical files. The final
+dissertation includes a link to this organisation repository in Chapter 1;
+the companion manuscript PDFs retain their original development-repository
+links.
 
 ## Getting started
 
