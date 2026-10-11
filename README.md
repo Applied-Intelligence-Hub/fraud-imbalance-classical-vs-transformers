@@ -2,20 +2,6 @@
 
 *A Leakage-Free Comparative Study of Classical Machine Learning and Tabular Transformers*
 
-MSc dissertation by **Olavo Miguel Cabaço Caixeiro**, Universidade Politécnica de
-Santarém, supervised by **Maryam Abbasi** and **Pedro Miguel de Oliveira Martins**.
-
-[Read the dissertation](publications/thesis.pdf)
-· [Read the manuscripts](publications/README.md#companion-manuscripts)
-· [Inspect the results](results/) · [Explore the code](src/)
-· [Obtain the datasets](datasets/)
-
-This release contains the final October 2026 dissertation export (V6), the
-matching selected scientific evidence and two reviewed companion manuscripts
-in preparation for submission. The manuscripts are not yet published.
-This is research code, not a production fraud system, a journal-acceptance
-claim or confirmation of an awarded degree.
-
 ## Study and principal findings
 
 The study separates **ranking**, **validation-selected decision thresholds**
