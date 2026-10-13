@@ -205,14 +205,3 @@ Synthetic protocol tests (no full-data retraining):
 python -m unittest discover -s tests -p "test_*.py"
 ```
 
-## Citation and rights
-
-> Caixeiro, Olavo Miguel Cabaço (2026). *Financial Fraud Detection under Extreme
-> Class Imbalance: A Leakage-Free Comparative Study of Classical Machine Learning
-> and Tabular Transformers*. MSc dissertation, Universidade Politécnica de Santarém.
-
-Include the repository URL and commit used when discussing code or results.
-Cite dataset authors and third-party methods separately; the dissertation
-contains the bibliography. No project-wide open-source licence is currently
-declared. Dataset, institutional-asset and third-party rights remain with their
-respective owners.
