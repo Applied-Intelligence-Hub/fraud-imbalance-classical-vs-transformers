@@ -1,6 +1,8 @@
 # Financial Fraud Detection under Extreme Class Imbalance
 
 *A Leakage-Free Comparative Study of Classical Machine Learning and Tabular Transformers*
+<img width="746" height="276" alt="Screenshot 2026-10-13 at 14 34 04" src="https://github.com/user-attachments/assets/b0a35273-b84d-44b4-809c-27581e2a611f" />
+
 
 ## Study and principal findings
 
